@@ -5,8 +5,8 @@ This repository is for practicing and experimenting with JavaScript, including t
 ## Project Structure
 
 - `index.html` – Main HTML file
-- `assets/script/app.js` – JavaScript code for tasks
-- `assets/style/style.css` – Stylesheet
+- `assets/app.js` – JavaScript code for tasks
+- `assets/style.css` – Stylesheet
 
 ## How to Use
 
@@ -17,7 +17,7 @@ This repository is for practicing and experimenting with JavaScript, including t
 
 <p align="center">
     <video width="480" controls>
-        <source src="./assets//Demo calc.mp4" type="video/mp4">
+        <source src="./assets/Demo calc.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </p>
